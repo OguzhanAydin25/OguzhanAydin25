@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OguzhanAydin25
 - 👀 I’m interested in Computer and Car
-- 🌱 I’m currently learning Engish and C#
+- 🌱 I’m currently learning Engish and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
