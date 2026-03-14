@@ -22,11 +22,3 @@ I'm a Computer Engineering student at Kadir Has University.
 
 <br />
 <hr />
-
-<h3 align="center">My greatest passion 💛💙</h3>
-
-<div align="center">
-  <a href="https://www.fenerbahce.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.uefa.com/imgml/TP/teams/logos/140x140/52692.png" width="120" alt="Fenerbahçe Logo" />
-  </a>
-</div>
